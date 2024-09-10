@@ -31,3 +31,4 @@ This software is published under the MIT-license.
 ## Acknowledgments
 
 This software has been developed as a part of work at [Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/), [Advanced Speech Translation Research and Development Promotion Center](https://astrec.nict.go.jp/), [National Institute of Information and Communications Technology](https://www.nict.go.jp/en/).
+A part of this work was conducted under the commissioned research program &quot;Research and Development of Advanced Multilingual Translation Technology&quote; in the &quot;R&amp;D&quot; Project for Information and Communications Technology (JPMI00316)&quot; of the Ministry of Internal Affairs and Communications (MIC), Japan, and supported by JSPS KAKENHI grant numbers 20K19879 and 19H05660.
